@@ -1,14 +1,15 @@
 # AuthInMern
 React Authentication Proj
 
-**Connect MongoDB** 
 
-**Create React project and install backend repos: nodemon, express, mongoose, dotenv, cors** 
+* **Connect MongoDB** 
 
-**Install jsonwebtoken, joi, joi-password-complexity (form handlers)** 
+* **Create React project and install backend repos: nodemon, express, mongoose, dotenv, cors** 
 
-**Install axios, react-router-dom to react frontend**
+* **Install jsonwebtoken, joi, joi-password-complexity (form handlers)** 
 
-**Set the .env variables DB, JWTPRIVATEKEY, SALT**
+* **Install axios, react-router-dom to react frontend**
 
-**Run the App. Happy Hacking!**
+* **Set the .env variables DB, JWTPRIVATEKEY, SALT**
+
+* **Run the App. Happy Hacking!**
